@@ -1,5 +1,6 @@
 #include<cstdio>
-intvector[5]={2,45,34,8,15}
+#include<iostream>
+intvector [5] ={2,45,34,8,15};
 intmain()
 {
 	inti;
