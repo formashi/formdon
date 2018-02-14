@@ -6,7 +6,7 @@ int main()
 	int i ;
 	int min=vector[0];
 	for(i=1; i<5; i++) {
-		if (min>vector[i]) max=vector[i];
+		if (min>vector[i]) min=vector[i];
 	}
 	printf("min = %d\n",min);
 }
